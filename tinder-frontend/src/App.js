@@ -9,7 +9,7 @@ function App() {
     <div className="app">
       <Header/>
       <TinderCards/>
-      {/* <SwipeButtons/> */}
+      <SwipeButtons/>
       {/* swipe buttons*/}
     </div>
   );
